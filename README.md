@@ -2,7 +2,7 @@
  a pure Python Windows program for submission approval and approval, with the server and GUI client
 
 - en [English](README.md)
-- zh_CN [简体中文](README.zh_CN.md)
+- zh_CN [简体中文](README_zh_CN.md)
 
 ### usage
 1. Download the source code,ui and server
