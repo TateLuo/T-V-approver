@@ -1,5 +1,5 @@
 # T&V approver
- a pure Python Windows program for submission approval and approving it, with the server and GUI client
+ a pure Python Windows program for submission approval and approval, with the server and GUI client
 
 - en [English](README.md)
 - zh_CN [简体中文](README.zh_CN.md)
