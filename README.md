@@ -14,5 +14,5 @@
 <<<<<<< HEAD
 PS: It's for private use, so I have not designed a function to sign in the GUI
 =======
-PS: It's for private use, so I have not designed a function to sign in the GUI
+PS: It's for private use, so I have not designed a function to sign up the GUI
 >>>>>>> 86342c7bcbf0e04a5d55fbc9eea06038f98fffe8
